@@ -3,7 +3,7 @@ A certificate generator using HTML, CSS and JS
 
 You can now simply enter your name and download the certificate!
 
-<img src="certificate.png" alt="example certificate"></a>
+<img src=".assets/images/certificate.png" alt="example certificate"></a>
 
 # What's next for certificate generator?
 
